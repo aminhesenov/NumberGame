@@ -1,0 +1,16 @@
+D:\C# lesson\RandomNumber\RandomNumber\bin\Debug\net8.0-windows\RandomNumber.exe
+D:\C# lesson\RandomNumber\RandomNumber\bin\Debug\net8.0-windows\RandomNumber.deps.json
+D:\C# lesson\RandomNumber\RandomNumber\bin\Debug\net8.0-windows\RandomNumber.runtimeconfig.json
+D:\C# lesson\RandomNumber\RandomNumber\bin\Debug\net8.0-windows\RandomNumber.dll
+D:\C# lesson\RandomNumber\RandomNumber\bin\Debug\net8.0-windows\RandomNumber.pdb
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\RandomNumber.Form1.resources
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\RandomNumber.csproj.GenerateResource.cache
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\RandomNumber.AssemblyInfoInputs.cache
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\RandomNumber.AssemblyInfo.cs
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\RandomNumber.csproj.CoreCompileInputs.cache
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\RandomNumber.dll
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\refint\RandomNumber.dll
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\RandomNumber.pdb
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\RandomNumber.genruntimeconfig.cache
+D:\C# lesson\RandomNumber\RandomNumber\obj\Debug\net8.0-windows\ref\RandomNumber.dll
